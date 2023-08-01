@@ -5,3 +5,7 @@ let A
      let text = "Here is our cell number: +4123456789";
 }
 
+let B = a + b;
+let C = B;
+console.log(C);
+
